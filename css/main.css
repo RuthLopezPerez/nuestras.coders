@@ -1,0 +1,51 @@
+h1{
+	width: 30%;
+	size: 10px;
+	color: red;
+	
+}
+div{
+border: 1px  solid;
+}
+.img{
+	opacity: 0.4;
+	filter: alpha(opacity=40);
+}
+.floating-box{
+	float: left;
+	width: 150px;
+	height: 75;
+	margin: 10px;
+	border: 3px solid;
+}
+
+.foto1{
+	border: 1px solid;
+	height: 100px;
+	width: 100px;
+}
+.foto2{
+	border: 1px solid;
+    height: 100px;
+    width: 100px;
+}
+.foto3{
+	border: 1px solid;
+	height: 100px;
+	width: 100px;
+}
+.foto4{
+	border: 1px solid;
+	height: 100px;
+	width: 100px;
+}
+.foto5{
+	border: 1px solid;
+	height: 100px;
+	width: 100px;
+}
+.foto6{
+	border: 1px solid;
+	height: 100px;
+	width: 100px;
+}
